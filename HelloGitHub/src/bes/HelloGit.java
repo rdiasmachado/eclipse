@@ -1,5 +1,5 @@
 
-package br.pucpr.bes;
+package bes;
 
 public class HelloGit {
 
